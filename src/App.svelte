@@ -1,13 +1,6 @@
-<script>
-	export let name;
-</script>
-
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
-	<br>
-	<p>And check out <a href="https://render.com">Render</a>'s Svelte <a href="https://render.com/docs/deploy-svelte">quickstart guide</a> to see how this site was deployed.</p>
-	<p class="large">🧑‍💻</p>
+	<h1>Scottish Highland Art</h1>
+	<p>Website offline</p>
 </main>
 
 <style>
@@ -23,10 +16,6 @@
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;
-	}
-
-	.large {
-		font-size: 3em;
 	}
 
 	@media (min-width: 640px) {
